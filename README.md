@@ -6,3 +6,4 @@
 * Slack / Discord Alternative - https://matrix.org/
 * Nighttime meetup - https://www.meetup.com/astoria-tech-meetup/events/296373024/
 * NodePad - https://nodepad.space/
+* Email and vector databases - https://www.youtube.com/live/gORojNhFIHo?si=OMyGM-PXC-YF3Ens
