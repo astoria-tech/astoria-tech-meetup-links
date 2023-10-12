@@ -3,6 +3,10 @@
 ## Thursday, October 12, 2023
 
 * Way to generate 3d models from a handful of images - https://poly.cam/gaussian-splatting
+* AI-powered video production - https://www.storia.ai/
+* Make AI GIFs: https://hotshot.co/
+* Build web apps with text prompts: https://picoapps.xyz/
+* Vercel AI templates: https://vercel.com/templates/ai
 
 ## Thursday, October 5, 2023
 
