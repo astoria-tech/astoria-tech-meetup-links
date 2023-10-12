@@ -7,6 +7,7 @@
 * Make AI GIFs: https://hotshot.co/
 * Build web apps with text prompts: https://picoapps.xyz/
 * Vercel AI templates - https://vercel.com/templates/ai
+* Vercel v0 Generative AI web builder - https://vercel.com/blog/announcing-v0-generative-ui
 * Pinokio - https://pinokio.computer/
 
 ## Thursday, October 5, 2023
