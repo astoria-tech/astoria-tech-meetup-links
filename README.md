@@ -6,7 +6,8 @@
 * AI-powered video production - https://www.storia.ai/
 * Make AI GIFs: https://hotshot.co/
 * Build web apps with text prompts: https://picoapps.xyz/
-* Vercel AI templates: https://vercel.com/templates/ai
+* Vercel AI templates - https://vercel.com/templates/ai
+* Pinokio - https://pinokio.computer/
 
 ## Thursday, October 5, 2023
 
