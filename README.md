@@ -1,5 +1,9 @@
 # astoria-tech-meetup-links
 
+## Thursday, October 12, 2023
+
+* Way to generate 3d models from a handful of images - https://poly.cam/gaussian-splatting
+
 ## Thursday, October 5, 2023
 
 * Package Manager for LLMs - https://github.com/jmorganca/ollama
