@@ -2,6 +2,7 @@
 
 ## Thursday, October 19, 2023
 
+* The Million Dollar Homepage - https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage
 * SearXNG is a free internet metasearch engine - https://docs.searxng.org/
 * Your AI search engine and pair programmer. - https://www.phind.com/
 * Fast, accurate, and ad-free.The search engine you deserve. - https://kagi.com/
