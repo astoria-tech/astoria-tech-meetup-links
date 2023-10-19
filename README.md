@@ -10,6 +10,8 @@
   * Slides - https://docs.google.com/presentation/d/1edQfy_vTtGbujuqj6ViZ-ppwyrCqoAurF2o2GmgEMFw/edit#slide=id.g28ff190c07b_0_298
   * Article - https://dev.to/reggi/framework-interoperable-component-libraries-using-lit-web-components-43ac
 * Open Source is Insufficient to Solve Trust Problems in Hardware - https://www.youtube.com/watch?v=Hzb37RyagCQ
+* Translation dubs for video: https://elevenlabs.io/blog/elevenlabs-launches-voice-translation-tool-to-break-down-language-barriers-for-content/
+* Create videos from text: https://www.heygen.com/
 
 ## Thursday, October 12, 2023
 
