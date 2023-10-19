@@ -2,6 +2,9 @@
 
 ## Thursday, October 19, 2023
 
+* Framework Interoperable Component Libraries ([@reggi](https://github.com/reggi)'s talk at tonight's meetup)
+  * Slides - https://docs.google.com/presentation/d/1edQfy_vTtGbujuqj6ViZ-ppwyrCqoAurF2o2GmgEMFw/edit#slide=id.g28ff190c07b_0_298
+  * Article - https://dev.to/reggi/framework-interoperable-component-libraries-using-lit-web-components-43ac
 * Open Source is Insufficient to Solve Trust Problems in Hardware - https://www.youtube.com/watch?v=Hzb37RyagCQ
 
 ## Thursday, October 12, 2023
