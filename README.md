@@ -1,5 +1,9 @@
 # astoria-tech-meetup-links
 
+## Thursday, October 19, 2023
+
+* Open Source is Insufficient to Solve Trust Problems in Hardware - https://www.youtube.com/watch?v=Hzb37RyagCQ
+
 ## Thursday, October 12, 2023
 
 * Way to generate 3d models from a handful of images - https://poly.cam/gaussian-splatting
