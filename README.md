@@ -2,6 +2,12 @@
 
 ## Thursday, October 19, 2023
 
+* Continuous file synchronization program - https://syncthing.net/
+* Borg Backup - https://borgbackup.org/
+* nand2tetris - https://www.nand2tetris.org/
+* A graphical Unix-like operating system - https://serenityos.org/
+* Unix Family Tree - [reddit.com/r/linux](https://www.reddit.com/r/linux/comments/huhqrh/unix_family_tree/?share_id=BP5qp7dbeSMqqVnUbYvbX&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
+* Temple OS - https://en.m.wikipedia.org/wiki/TempleOS
 * The Million Dollar Homepage - https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage
 * SearXNG is a free internet metasearch engine - https://docs.searxng.org/
 * Your AI search engine and pair programmer. - https://www.phind.com/
