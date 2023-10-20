@@ -11,6 +11,8 @@
 * Framework Interoperable Component Libraries ([@reggi](https://github.com/reggi)'s talk at tonight's meetup)
   * Slides - https://docs.google.com/presentation/d/1edQfy_vTtGbujuqj6ViZ-ppwyrCqoAurF2o2GmgEMFw/edit#slide=id.g28ff190c07b_0_298
   * Article - https://dev.to/reggi/framework-interoperable-component-libraries-using-lit-web-components-43ac
+* Speeding up Python 🐍 with Rust 🦀 ([@saada](https://github.com/saada)'s talk at tonight's meetup)
+  * Slides - https://docs.google.com/presentation/d/1TL1bIEfZWe_YqSRpG10BuRlDpml6WVMR2Tavfgt-xPY/edit?usp=sharing
 * Open Source is Insufficient to Solve Trust Problems in Hardware - https://www.youtube.com/watch?v=Hzb37RyagCQ
 * Translation dubs for video: https://elevenlabs.io/blog/elevenlabs-launches-voice-translation-tool-to-break-down-language-barriers-for-content/
 * Create videos from text: https://www.heygen.com/
