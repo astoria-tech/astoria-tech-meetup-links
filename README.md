@@ -6,6 +6,8 @@
 * SearXNG is a free internet metasearch engine - https://docs.searxng.org/
 * Your AI search engine and pair programmer. - https://www.phind.com/
 * Fast, accurate, and ad-free.The search engine you deserve. - https://kagi.com/
+* Linux Kernel talk by [@nfraprado](https://github.com/nfraprado)
+  * Slides - https://codeberg.org/nfraprado/linux-kernel-quick-overview-slides/src/branch/main/slides.pdf
 * Framework Interoperable Component Libraries ([@reggi](https://github.com/reggi)'s talk at tonight's meetup)
   * Slides - https://docs.google.com/presentation/d/1edQfy_vTtGbujuqj6ViZ-ppwyrCqoAurF2o2GmgEMFw/edit#slide=id.g28ff190c07b_0_298
   * Article - https://dev.to/reggi/framework-interoperable-component-libraries-using-lit-web-components-43ac
