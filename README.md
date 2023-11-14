@@ -2,7 +2,7 @@
 
 - 🌙 Nighttime event [presentation request form](https://forms.gle/MJZb8B6FisiHFPrx7)
 (and [QR code](https://github.com/lospoy/astoria-tech-meetup-links/assets/36555654/7bba6ea7-226d-43a5-a037-b968777e00a7))
-- [Meetup group](https://www.meetup.com/astoria-tech-meetup/) (**Note:** reaching out here is the slowest way to reach us! We used this page purely for logistics.)
+- [Meetup group](https://www.meetup.com/astoria-tech-meetup/) (**Note:** reaching out here is the slowest way to reach us! We use this page purely for organizing logistics.)
 - [Slack group](https://slack.astoria.app) (**Note:** reaching out here is the fast way to reach us!)
 
 ## Thursday, October 19, 2023
