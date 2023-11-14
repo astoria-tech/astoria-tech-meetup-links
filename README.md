@@ -1,5 +1,9 @@
 # astoria-tech-meetup-links
 
+🌙 Nighttime event [presentation request form](https://forms.gle/MJZb8B6FisiHFPrx7)
+(and [QR code](https://github.com/lospoy/astoria-tech-meetup-links/assets/36555654/7bba6ea7-226d-43a5-a037-b968777e00a7))
+
+
 ## Thursday, October 19, 2023
 ### Nighttime talks
 * Linux Kernel talk by [@nfraprado](https://github.com/nfraprado)
