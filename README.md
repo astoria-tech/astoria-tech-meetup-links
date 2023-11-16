@@ -1,5 +1,12 @@
 # astoria-tech-meetup-links
 
+## Thursday, November 17, 2023
+
+* [Astro](https://astro.build/)
+* Next.js [Server components using SQL](https://nextjs.org/blog/security-nextjs-server-components-actions#component-level-data-access)
+* [Pray for mojo](https://youtu.be/BFts5ISnaxQ?si=Yw80DQZSh2nWzbOP&t=62)
+* [Astro tech meetup Dec 7th 2023](https://www.meetup.com/astoria-tech-meetup/events/297194678)
+
 - 🌙 Nighttime event [presentation request form](https://forms.gle/MJZb8B6FisiHFPrx7)
 (and [QR code](https://github.com/lospoy/astoria-tech-meetup-links/assets/36555654/7bba6ea7-226d-43a5-a037-b968777e00a7))
 - [Meetup group](https://www.meetup.com/astoria-tech-meetup/) (**Note:** reaching out here is the slowest way to reach us! We use this page purely for organizing logistics.)
