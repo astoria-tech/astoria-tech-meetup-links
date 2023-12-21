@@ -1,5 +1,10 @@
 # astoria-tech-meetup-links
 
+## Thursday, December 21, 2023
+
+* https://cloud.google.com/bigquery/docs/bqml-introduction
+* https://www.codium.ai/
+
 ## Thursday, November 17, 2023
 
 * [Astro](https://astro.build/)
