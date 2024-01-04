@@ -1,5 +1,13 @@
 # astoria-tech-meetup-links
 
+## Thursday, Januwary 4, 2023
+
+* https://www.discogs.com/
+* https://www.libib.com/
+* https://www.ankiapp.com/
+* https://nats.io/
+* https://github.com/jesseduffield/lazygit
+
 ## Thursday, December 21, 2023
 
 * https://cloud.google.com/bigquery/docs/bqml-introduction
