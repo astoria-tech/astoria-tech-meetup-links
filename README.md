@@ -1,6 +1,11 @@
 # astoria-tech-meetup-links
 
-## Thursday, Januwary 4, 2023
+## Thursday, January 11th 2023
+
+* https://www.amazon.com/Art-Leadership-Small-Things-Done/dp/1492045691
+* https://spline.design/
+
+## Thursday, January 4, 2023
 
 * https://www.discogs.com/
 * https://www.libib.com/
