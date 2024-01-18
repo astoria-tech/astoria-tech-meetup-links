@@ -1,5 +1,11 @@
 # astoria-tech-meetup-links
 
+## Thursday, January 18th 2023
+
+* https://us.macmillan.com/books/9781250233011/exordia
+* https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen
+* https://www.youtube.com/watch?v=1VzjT_kW1Ko&list=PLeWHfyz6lrQWhL_ix2GpchrW4TyOe0Cfb&index=22
+
 ## Thursday, January 11th 2023
 
 * https://www.amazon.com/Art-Leadership-Small-Things-Done/dp/1492045691
