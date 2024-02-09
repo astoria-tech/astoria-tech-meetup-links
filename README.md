@@ -1,5 +1,9 @@
 # astoria-tech-meetup-links
 
+## Thursday, February 8th 2023
+
+* https://github.com/igor-petruk/scriptisto
+
 ## Thursday, January 18th 2023
 
 * https://us.macmillan.com/books/9781250233011/exordia
